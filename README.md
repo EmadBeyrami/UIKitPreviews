@@ -13,3 +13,7 @@ haven’t you found it so delightful and easy to work with?
 In UIKit views, if you are working on a piece of design that is mostly working with your codebase and you have to check it every once in a while to make sure your code makes the UI design you are trying to make; So every now and then you compile and build your code into the simulator to check your code result but in SwiftUI you can see the changes you made on-demand without having to wait for your project to build and compile.
 What if we can use that or something similar to it for our UIKit Components?
 If you are looking for this here is the answer for you!
+
+### Buy me a coffee:
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=FRY432D75E4Q2)
+[![crypto](https://en.bitcoin.it/w/images/en/7/74/BC_Rnd_64px.png)](https://nowpayments.io/donation/emad)
